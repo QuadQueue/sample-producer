@@ -2,8 +2,6 @@ package lk.quadrate.samplequadqueueproducer;
 
 import lk.quadrate.quadqueueclient.producer.Producer;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.ComponentScans;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
